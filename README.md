@@ -1,7 +1,6 @@
-# All-Clone
+# AriyA'n SiN'gg 
 
-git clone https://github.com/f-c-d-b/All-Clone
-
+git clone https://github.com/Ariyan965/All-Clone
 
 cd All-Clone
 
