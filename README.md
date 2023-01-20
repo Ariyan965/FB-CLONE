@@ -1,8 +1,8 @@
 # AriyA'n SiN'gg 
 
-git clone https://github.com/Ariyan965/All-Clone
+git clone https://github.com/Ariyan965/FB-CLONE
 
-cd All-Clone
+cd FB-CLONE
 
 
 python Run.py
